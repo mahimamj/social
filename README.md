@@ -4,7 +4,7 @@ A modern, premium single-page website for a company specializing in AI Automatio
 
 ## Features
 
-- **Modern Design**: Clean, professional design with gradient accents and smooth animations
+- **Premium Design**: Sophisticated navy blue and gold color palette with elegant animations
 - **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
 - **Smooth Scrolling**: Enhanced navigation with smooth scroll behavior
 - **Interactive Elements**: Hover effects, animations, and dynamic content
@@ -35,9 +35,9 @@ A modern, premium single-page website for a company specializing in AI Automatio
 Edit the CSS variables in `styles.css`:
 ```css
 :root {
-    --primary-color: #6366f1;
-    --secondary-color: #8b5cf6;
-    --accent-color: #ec4899;
+    --primary-color: #0a0e27;
+    --accent-color: #d4af37;
+    --gradient-premium: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 50%, #d4af37 100%);
     /* ... */
 }
 ```
@@ -69,4 +69,3 @@ The contact form is currently set up for client-side handling. To make it functi
 ## License
 
 This is a template website. Feel free to use and modify as needed for your business.
-
